@@ -1,0 +1,650 @@
+sex,age,famsize,Pstatus,Mjob,Fjob,guardian,traveltime,famrel,freetime,health,absences,G1,G2,G3
+F,18.0,GT3,A,at_home,teacher,mother,2.0,4.0,3.0,3.0,4.0,0,11,Good
+?,17.0,GT3,T,at_home,other,father,1.0,5.0,3.0,3.0,2.0,9,11,Good
+F,15.0,LE3,T,at_home,other,mother,1.0,4.0,3.0,3.0,6.0,12,13,Good
+F,15.0,GT3,T,health,services,mother,1.0,3.0,2.0,5.0,0.0,14,14,Very Good
+F,16.0,GT3,T,other,other,father,1.0,4.0,,5.0,0.0,11,13,Good
+M,16.0,LE3,T,services,other,mother,1.0,5.0,4.0,5.0,6.0,12,12,Good
+M,16.0,LE3,T,other,other,mother,1.0,4.0,4.0,3.0,0.0,13,12,Good
+F,17.0,GT3,A,other,teacher,mother,2.0,4.0,1.0,1.0,2.0,10,13,Good
+M,15.0,LE3,A,services,other,mother,1.0,,2.0,1.0,0.0,15,16,Excellent
+M,15.0,GT3,T,other,other,mother,1.0,5.0,5.0,5.0,0.0,12,12,Good
+F,15.0,GT3,T,teacher,health,mother,1.0,3.0,3.0,2.0,2.0,14,14,Very Good
+F,15.0,GT3,T,services,other,father,3.0,5.0,2.0,4.0,0.0,10,12,Good
+M,15.0,LE3,T,health,services,father,1.0,4.0,3.0,5.0,0.0,12,13,Good
+M,15.0,GT3,T,teacher,other,mother,2.0,5.0,4.0,3.0,0.0,12,12,Good
+M,15.0,GT3,A,other,other,other,1.0,4.0,5.0,3.0,0.0,14,14,Very Good
+F,16.0,GT3,T,health,other,mother,,4.0,4.0,2.0,6.0,17,17,Excellent
+F,16.0,GT3,T,services,services,mother,1.0,3.0,2.0,2.0,10.0,13,13,Very Good
+F,16.0,GT3,T,other,other,mother,3.0,5.0,3.0,4.0,2.0,13,14,Very Good
+M,17.0,GT3,T,services,services,mother,1.0,5.0,5.0,5.0,2.0,8,8,Fair
+M,16.0,LE3,T,health,other,father,1.0,3.0,1.0,5.0,6.0,12,12,Good
+M,15.0,GT3,T,teacher,other,mother,1.0,4.0,4.0,1.0,0.0,12,13,Very Good
+M,15.0,GT3,T,health,?,father,1.0,5.0,4.0,5.0,,11,12,Good
+M,16.0,LE3,T,teacher,other,mother,1.0,4.0,,5.0,0.0,12,13,Very Good
+M,16.0,LE3,T,other,other,mother,2.0,5.0,4.0,5.0,2.0,10,10,Good
+F,15.0,GT3,T,services,health,mother,1.0,4.0,3.0,5.0,2.0,10,11,Good
+F,16.0,GT3,T,services,services,mother,1.0,1.0,2.0,5.0,6.0,10,11,Good
+M,15.0,GT3,T,other,other,mother,1.0,4.0,2.0,5.0,8.0,11,12,Good
+M,15.0,GT3,T,health,services,mother,1.0,2.0,2.0,1.0,,11,11,Good
+M,16.0,LE3,A,services,other,mother,1.0,5.0,3.0,5.0,2.0,12,12,Good
+M,16.0,GT3,T,teacher,teacher,mother,1.0,4.0,4.0,5.0,4.0,12,11,Good
+M,15.0,GT3,T,health,services,mother,1.0,5.0,4.0,5.0,0.0,10,11,Good
+M,15.0,GT3,T,services,services,mother,2.0,4.0,3.0,5.0,2.0,15,15,Very Good
+M,15.0,GT3,T,teacher,at_home,?,1.0,4.0,5.0,5.0,0.0,13,14,Very Good
+M,15.0,LE3,T,other,other,mother,1.0,5.0,3.0,2.0,0.0,13,12,Good
+?,16.0,GT3,T,other,other,mother,1.0,5.0,4.0,5.0,4.0,12,12,Good
+F,15.0,GT3,?,other,other,father,2.0,3.0,5.0,5.0,4.0,11,11,Good
+M,15.0,LE3,T,teacher,services,mother,,5.0,4.0,4.0,0.0,14,14,Very Good
+M,16.0,GT3,A,other,teacher,mother,2.0,2.0,4.0,5.0,4.0,13,13,Good
+F,15.0,GT3,T,services,health,mother,1.0,4.0,3.0,5.0,2.0,11,12,Good
+F,15.0,GT3,T,at_home,other,mother,1.0,4.0,3.0,2.0,8.0,14,13,Good
+F,16.0,LE3,T,other,other,mother,2.0,3.0,3.0,3.0,,11,11,Good
+M,15.0,LE3,T,teacher,other,other,1.0,5.0,4.0,5.0,8.0,10,11,Good
+M,15.0,GT3,T,services,teacher,father,1.0,4.0,3.0,5.0,0.0,14,15,Very Good
+M,15.0,GT3,T,services,services,father,1.0,5.0,4.0,1.0,0.0,9,10,Good
+F,16.0,LE3,T,other,at_home,father,2.0,4.0,3.0,5.0,14.0,10,11,Good
+F,15.0,LE3,A,other,other,mother,1.0,5.0,2.0,5.0,4.0,10,11,Good
+F,16.0,LE3,A,other,services,mother,1.0,2.0,3.0,3.0,6.0,13,12,Good
+M,16.0,GT3,T,health,services,mother,1.0,4.0,2.0,2.0,2.0,17,17,Excellent
+M,15.0,GT3,T,teacher,other,mother,1.0,4.0,3.0,5.0,4.0,11,12,Good
+F,15.0,GT3,T,services,teacher,father,1.0,4.0,4.0,3.0,2.0,13,12,Good
+F,16.0,LE3,T,services,services,mother,3.0,,3.0,4.0,0.0,14,13,Good
+F,15.0,LE3,T,health,other,mother,1.0,4.0,3.0,5.0,0.0,16,14,Very Good
+M,15.0,LE3,A,health,health,father,2.0,5.0,5.0,5.0,,10,9,Fair
+F,15.0,GT3,T,services,services,mother,,3.0,3.0,,0.0,13,12,Good
+F,15.0,LE3,A,other,other,mother,1.0,5.0,3.0,1.0,0.0,13,12,Good
+F,16.0,GT3,A,other,other,mother,1.0,5.0,3.0,2.0,2.0,12,13,Good
+F,15.0,GT3,A,services,services,mother,1.0,4.0,3.0,1.0,0.0,15,14,Very Good
+M,15.0,GT3,T,teacher,health,mother,1.0,3.0,2.0,5.0,8.0,15,15,Very Good
+M,15.0,LE3,T,other,at_home,father,1.0,4.0,,5.0,0.0,14,13,Very Good
+F,16.0,GT3,T,services,other,mother,1.0,4.0,2.0,5.0,2.0,16,15,Very Good
+F,16.0,GT3,T,health,teacher,mother,1.0,2.0,4.0,4.0,0.0,17,16,Very Good
+F,16.0,GT3,T,services,services,father,4.0,5.0,5.0,5.0,0.0,10,10,Very Good
+F,16.0,LE3,T,other,services,father,1.0,4.0,4.0,,0.0,13,13,Good
+F,16.0,GT3,T,teacher,health,mother,1.0,3.0,4.0,4.0,0.0,14,13,Good
+F,15.0,LE3,T,services,services,father,1.0,4.0,4.0,2.0,0.0,13,12,Good
+F,16.0,LE3,T,teacher,services,mother,3.0,5.0,4.0,1.0,2.0,16,15,Very Good
+M,15.0,GT3,A,other,services,mother,1.0,1.0,3.0,3.0,0.0,11,12,Good
+F,16.0,GT3,T,services,other,mother,1.0,4.0,3.0,5.0,0.0,10,9,Good
+?,15.0,LE3,T,health,services,mother,2.0,4.0,1.0,4.0,0.0,11,10,Good
+F,15.0,LE3,T,other,other,father,2.0,4.0,4.0,3.0,6.0,15,15,Very Good
+M,16.0,GT3,T,other,other,father,2.0,4.0,3.0,5.0,2.0,13,11,Good
+M,15.0,GT3,T,?,other,mother,1.0,3.0,3.0,3.0,0.0,11,9,Good
+F,15.0,GT3,T,other,other,mother,1.0,3.0,3.0,5.0,2.0,13,11,Good
+M,16.0,GT3,T,other,other,mother,1.0,5.0,3.0,5.0,0.0,13,13,Very Good
+F,16.0,GT3,T,other,services,mother,1.0,4.0,3.0,5.0,4.0,11,11,Good
+M,15.0,GT3,T,teacher,other,mother,1.0,4.0,,5.0,0.0,11,11,Good
+M,15.0,GT3,T,teacher,other,mother,2.0,3.0,4.0,1.0,0.0,12,11,Good
+F,16.0,GT3,T,other,other,mother,1.0,5.0,2.0,3.0,1.0,13,13,Good
+M,17.0,GT3,T,other,other,mother,2.0,4.0,5.0,3.0,0.0,9,9,Good
+F,16.0,GT3,T,at_home,other,mother,1.0,2.0,4.0,3.0,14.0,12,11,Good
+M,15.0,GT3,T,other,services,father,1.0,3.0,2.0,,0.0,11,11,Good
+M,15.0,GT3,T,other,other,mother,1.0,5.0,3.0,5.0,2.0,10,9,Fair
+F,15.0,LE3,T,services,other,mother,1.0,4.0,4.0,5.0,4.0,12,11,Good
+M,15.0,LE3,T,services,services,mother,2.0,5.0,3.0,4.0,2.0,13,12,Good
+F,15.0,GT3,T,other,other,father,1.0,4.0,3.0,4.0,2.0,13,12,Good
+F,15.0,GT3,T,services,services,father,2.0,,4.0,5.0,4.0,12,11,Good
+F,16.0,LE3,T,at_home,other,mother,1.0,4.0,3.0,2.0,6.0,13,11,Good
+F,15.0,GT3,T,?,other,mother,1.0,5.0,3.0,1.0,4.0,15,15,Very Good
+M,16.0,GT3,T,services,other,father,2.0,4.0,4.0,3.0,6.0,12,10,Good
+M,16.0,LE3,A,teacher,health,mother,1.0,4.0,1.0,5.0,6.0,9,9,Good
+F,16.0,GT3,T,other,other,mother,1.0,4.0,3.0,4.0,2.0,9,11,Good
+F,15.0,GT3,T,services,other,mother,1.0,4.0,5.0,1.0,6.0,14,13,Good
+F,16.0,LE3,T,other,other,father,1.0,3.0,3.0,2.0,0.0,12,13,Good
+F,16.0,GT3,?,teacher,services,mother,2.0,5.0,3.0,1.0,2.0,13,14,Very Good
+M,15.0,LE3,T,services,health,mother,1.0,4.0,3.0,4.0,2.0,11,12,Good
+F,15.0,GT3,?,at_home,?,mother,2.0,3.0,1.0,1.0,4.0,13,13,Good
+M,16.0,GT3,T,services,other,mother,2.0,3.0,3.0,4.0,6.0,9,11,Good
+F,16.0,GT3,T,other,other,mother,1.0,4.0,3.0,5.0,0.0,13,12,Good
+F,16.0,?,T,other,other,mother,1.0,,3.0,1.0,,12,13,Good
+F,,GT3,T,other,at_home,mother,,5.0,3.0,3.0,2.0,12,13,Good
+M,16.0,GT3,T,services,services,mother,1.0,4.0,5.0,4.0,12.0,9,9,Fair
+M,16.0,GT3,T,services,teacher,father,1.0,4.0,4.0,4.0,0.0,16,16,Very Good
+M,15.0,GT3,?,services,other,mother,1.0,5.0,3.0,5.0,2.0,12,13,Good
+?,15.0,GT3,?,services,other,mother,2.0,4.0,3.0,2.0,16.0,11,10,Good
+M,15.0,GT3,A,services,other,mother,1.0,5.0,4.0,1.0,0.0,16,16,Very Good
+F,15.0,GT3,?,other,health,father,1.0,4.0,3.0,4.0,10.0,10,10,Good
+F,15.0,GT3,T,other,other,mother,1.0,5.0,1.0,3.0,4.0,10,10,Good
+M,16.0,GT3,T,services,other,father,1.0,5.0,3.0,5.0,4.0,13,14,Very Good
+M,15.0,GT3,T,other,other,father,4.0,1.0,3.0,1.0,8.0,12,10,Good
+F,16.0,LE3,T,health,health,mother,1.0,5.0,4.0,4.0,2.0,15,15,Very Good
+M,15.0,LE3,A,teacher,teacher,mother,1.0,5.0,5.0,4.0,4.0,13,14,Very Good
+F,16.0,GT3,T,services,other,father,1.0,,1.0,2.0,4.0,11,11,Good
+?,,GT3,T,?,other,mother,1.0,3.0,1.0,5.0,12.0,8,10,Good
+M,15.0,LE3,T,teacher,other,mother,1.0,3.0,5.0,3.0,10.0,18,17,Excellent
+M,15.0,GT3,T,health,services,mother,1.0,5.0,4.0,5.0,4.0,10,9,Good
+M,16.0,GT3,T,?,teacher,father,1.0,5.0,4.0,5.0,6.0,16,14,Very Good
+M,15.0,GT3,T,other,teacher,father,2.0,4.0,4.0,2.0,4.0,16,15,Very Good
+M,16.0,GT3,T,other,services,father,2.0,5.0,4.0,5.0,6.0,14,14,Very Good
+M,17.0,GT3,T,other,other,father,3.0,5.0,2.0,5.0,14.0,12,11,Good
+M,15.0,?,T,other,other,father,1.0,3.0,4.0,4.0,2.0,14,13,Very Good
+F,15.0,GT3,T,at_home,services,mother,1.0,3.0,2.0,1.0,0.0,14,14,Very Good
+M,15.0,GT3,T,services,services,father,1.0,5.0,5.0,5.0,6.0,14,13,Good
+F,16.0,LE3,T,other,health,father,2.0,4.0,2.0,5.0,2.0,14,12,Good
+M,16.0,GT3,T,health,other,mother,1.0,3.0,4.0,5.0,4.0,12,13,Good
+F,16.0,GT3,T,other,other,mother,1.0,5.0,4.0,5.0,0.0,12,11,Good
+M,15.0,GT3,T,services,services,father,1.0,5.0,5.0,5.0,2.0,9,9,Fair
+F,15.0,LE3,A,other,other,mother,1.0,,3.0,1.0,0.0,10,11,Good
+F,,GT3,T,at_home,other,other,1.0,3.0,4.0,5.0,0.0,9,10,Good
+M,16.0,GT3,T,teacher,teacher,mother,1.0,3.0,5.0,4.0,,14,14,Very Good
+M,16.0,GT3,T,other,other,mother,2.0,3.0,2.0,1.0,4.0,13,12,Good
+F,15.0,GT3,T,services,?,father,2.0,4.0,2.0,5.0,0.0,10,11,Good
+F,18.0,GT3,T,services,other,mother,1.0,5.0,4.0,5.0,10.0,10,9,Fair
+F,17.0,LE3,A,other,other,mother,3.0,3.0,2.0,5.0,8.0,11,10,Good
+F,15.0,GT3,T,at_home,other,mother,3.0,4.0,3.0,4.0,6.0,11,12,Good
+F,17.0,?,T,other,other,father,1.0,,4.0,5.0,2.0,13,12,Good
+F,16.0,GT3,A,services,other,father,1.0,3.0,2.0,5.0,12.0,15,13,Very Good
+M,16.0,GT3,T,at_home,other,mother,4.0,3.0,2.0,2.0,4.0,9,9,Good
+F,16.0,GT3,A,other,other,mother,1.0,5.0,3.0,5.0,12.0,13,11,Good
+M,15.0,GT3,T,at_home,teacher,mother,4.0,5.0,3.0,5.0,2.0,12,11,Good
+F,15.0,GT3,T,services,at_home,mother,1.0,4.0,3.0,5.0,4.0,13,14,Very Good
+M,17.0,GT3,T,at_home,other,mother,3.0,5.0,4.0,5.0,2.0,10,9,Good
+F,16.0,GT3,T,at_home,other,mother,4.0,5.0,1.0,3.0,0.0,14,13,Good
+M,18.0,LE3,T,services,services,mother,2.0,3.0,3.0,4.0,2.0,11,11,Good
+F,18.0,GT3,A,other,services,other,1.0,4.0,,5.0,10.0,12,11,Good
+F,16.0,GT3,T,other,services,mother,2.0,3.0,3.0,1.0,8.0,12,11,Good
+F,16.0,GT3,A,other,other,other,2.0,4.0,3.0,5.0,4.0,9,9,Good
+M,16.0,LE3,T,services,other,mother,1.0,4.0,4.0,5.0,0.0,10,10,Good
+F,15.0,GT3,T,teacher,teacher,?,2.0,4.0,3.0,5.0,6.0,13,14,Very Good
+F,15.0,GT3,T,other,other,mother,3.0,5.0,5.0,1.0,2.0,8,9,Fair
+M,15.0,GT3,T,teacher,services,father,2.0,2.0,2.0,3.0,6.0,9,11,Good
+F,15.0,GT3,A,services,services,mother,1.0,1.0,,1.0,24.0,9,8,Fair
+M,16.0,GT3,T,services,services,mother,1.0,5.0,3.0,5.0,0.0,15,13,Good
+M,16.0,LE3,T,services,services,father,2.0,2.0,3.0,2.0,4.0,12,11,Good
+F,15.0,GT3,T,teacher,services,mother,1.0,4.0,2.0,5.0,2.0,13,13,Good
+F,16.0,LE3,T,at_home,at_home,mother,1.0,3.0,4.0,1.0,4.0,10,11,Good
+M,17.0,GT3,T,other,other,mother,1.0,5.0,4.0,5.0,22.0,9,7,Fair
+?,15.0,GT3,T,other,services,father,1.0,4.0,4.0,5.0,0.0,12,12,Good
+F,15.0,LE3,A,?,other,mother,2.0,4.0,4.0,5.0,0.0,11,10,Good
+F,15.0,GT3,T,health,services,father,1.0,3.0,3.0,3.0,2.0,11,11,Good
+F,15.0,GT3,T,at_home,other,mother,1.0,4.0,3.0,,6.0,13,12,Good
+F,15.0,?,?,at_home,services,father,1.0,2.0,3.0,1.0,6.0,11,11,Good
+M,16.0,GT3,T,teacher,teacher,mother,1.0,3.0,3.0,5.0,16.0,9,9,Fair
+M,15.0,LE3,A,services,other,mother,4.0,,5.0,5.0,0.0,12,11,Good
+M,18.0,LE3,T,other,other,mother,1.0,2.0,3.0,4.0,0.0,11,9,Poor
+M,16.0,LE3,T,at_home,other,mother,1.0,4.0,4.0,5.0,6.0,9,10,Good
+F,15.0,GT3,T,services,services,other,2.0,4.0,2.0,3.0,2.0,13,13,Good
+M,,GT3,T,services,at_home,mother,1.0,4.0,5.0,4.0,6.0,11,9,Good
+F,17.0,GT3,T,other,teacher,mother,1.0,4.0,2.0,4.0,0.0,13,13,Good
+M,15.0,GT3,T,at_home,services,mother,1.0,4.0,4.0,1.0,0.0,7,8,Fair
+M,17.0,LE3,T,other,other,mother,1.0,2.0,2.0,5.0,14.0,9,8,Good
+F,18.0,GT3,T,at_home,other,mother,3.0,5.0,2.0,4.0,6.0,11,10,Good
+M,16.0,GT3,T,at_home,other,mother,3.0,4.0,2.0,3.0,,12,10,Good
+M,16.0,GT3,T,other,services,father,1.0,4.0,5.0,5.0,0.0,10,10,Poor
+M,16.0,LE3,T,health,services,mother,2.0,4.0,4.0,5.0,0.0,9,8,Good
+M,17.0,LE3,T,at_home,other,mother,2.0,3.0,3.0,5.0,8.0,8,8,Fair
+M,17.0,GT3,T,other,other,mother,2.0,4.0,4.0,3.0,4.0,7,6,Fair
+M,15.0,LE3,T,other,other,mother,2.0,4.0,4.0,5.0,2.0,8,9,Good
+M,16.0,GT3,T,at_home,services,father,1.0,5.0,3.0,2.0,2.0,9,8,Fair
+M,17.0,LE3,T,other,services,mother,4.0,5.0,3.0,5.0,0.0,8,8,Fair
+M,17.0,GT3,T,services,services,mother,2.0,4.0,,2.0,10.0,8,7,Fair
+M,16.0,GT3,T,other,other,father,1.0,4.0,3.0,4.0,0.0,9,10,Good
+F,16.0,GT3,T,health,services,father,1.0,4.0,2.0,3.0,0.0,17,17,Excellent
+F,16.0,GT3,T,other,other,mother,1.0,5.0,1.0,4.0,0.0,12,12,Good
+F,16.0,GT3,T,health,health,mother,1.0,4.0,4.0,,0.0,16,16,Excellent
+M,16.0,GT3,T,other,other,father,3.0,3.0,4.0,2.0,4.0,9,9,Good
+M,16.0,GT3,T,other,other,mother,2.0,4.0,3.0,3.0,0.0,16,17,Excellent
+M,17.0,LE3,T,teacher,?,mother,1.0,4.0,4.0,5.0,0.0,11,9,Good
+F,16.0,GT3,T,at_home,services,mother,1.0,4.0,3.0,3.0,,14,13,Good
+F,16.0,LE3,T,other,other,mother,2.0,4.0,4.0,4.0,0.0,14,14,Very Good
+M,17.0,?,T,teacher,other,mother,2.0,4.0,4.0,4.0,0.0,10,11,Good
+F,16.0,GT3,T,services,other,mother,2.0,3.0,4.0,5.0,0.0,13,12,Very Good
+?,17.0,GT3,T,other,other,father,1.0,4.0,3.0,4.0,4.0,11,9,Good
+M,16.0,GT3,T,teacher,services,mother,1.0,4.0,3.0,3.0,8.0,10,9,Good
+M,17.0,GT3,T,other,other,mother,1.0,5.0,2.0,2.0,4.0,11,11,Good
+M,16.0,GT3,T,teacher,other,mother,1.0,3.0,4.0,3.0,4.0,11,10,Good
+M,16.0,GT3,T,services,other,mother,1.0,4.0,2.0,3.0,0.0,11,12,Good
+F,17.0,GT3,T,services,services,father,1.0,5.0,4.0,5.0,0.0,17,18,Excellent
+F,17.0,LE3,T,other,other,mother,1.0,5.0,3.0,1.0,32.0,14,13,Very Good
+F,16.0,GT3,T,other,other,mother,1.0,1.0,2.0,1.0,8.0,14,15,Very Good
+M,17.0,GT3,T,services,services,mother,1.0,4.0,3.0,4.0,6.0,11,13,Very Good
+M,16.0,GT3,T,services,services,mother,1.0,3.0,3.0,3.0,,10,9,Good
+M,16.0,LE3,?,other,other,mother,1.0,4.0,2.0,5.0,0.0,13,14,Very Good
+F,17.0,GT3,A,health,other,mother,1.0,3.0,3.0,3.0,10.0,12,13,Very Good
+M,17.0,GT3,T,at_home,other,mother,1.0,3.0,1.0,3.0,6.0,9,9,Good
+F,16.0,GT3,T,services,services,mother,1.0,4.0,3.0,2.0,6.0,12,12,Good
+F,17.0,GT3,T,at_home,services,mother,1.0,5.0,3.0,3.0,0.0,12,11,Good
+M,17.0,GT3,T,at_home,services,other,2.0,4.0,4.0,5.0,16.0,10,11,Good
+M,16.0,?,T,services,services,mother,1.0,4.0,3.0,5.0,0.0,11,10,Good
+M,16.0,GT3,T,other,other,father,2.0,5.0,3.0,3.0,0.0,13,12,Good
+F,17.0,LE3,T,services,services,father,1.0,4.0,3.0,5.0,8.0,14,15,Very Good
+M,17.0,GT3,T,services,teacher,mother,1.0,5.0,2.0,5.0,4.0,13,13,Very Good
+M,16.0,LE3,T,teacher,other,father,3.0,3.0,3.0,3.0,16.0,10,11,Good
+F,17.0,GT3,T,services,teacher,mother,2.0,4.0,2.0,2.0,30.0,14,15,Very Good
+F,16.0,LE3,T,teacher,teacher,mother,1.0,4.0,5.0,3.0,0.0,11,10,Good
+F,16.0,GT3,T,health,other,mother,1.0,4.0,3.0,2.0,2.0,14,14,Very Good
+F,16.0,GT3,T,other,other,mother,1.0,4.0,4.0,4.0,4.0,11,12,Good
+F,17.0,GT3,T,other,other,mother,1.0,4.0,4.0,1.0,,14,15,Very Good
+F,17.0,GT3,T,other,other,mother,1.0,5.0,,3.0,21.0,13,13,Good
+F,16.0,GT3,T,services,services,mother,2.0,5.0,3.0,5.0,6.0,13,13,Good
+F,17.0,GT3,T,at_home,services,mother,1.0,4.0,4.0,5.0,14.0,8,9,Fair
+F,16.0,GT3,A,services,other,mother,1.0,2.0,3.0,4.0,2.0,11,11,Good
+F,16.0,GT3,T,teacher,other,mother,1.0,1.0,3.0,1.0,4.0,14,15,Very Good
+F,16.0,GT3,T,at_home,other,mother,2.0,4.0,3.0,5.0,2.0,12,13,Good
+F,17.0,GT3,T,teacher,other,mother,2.0,4.0,4.0,4.0,0.0,11,12,Good
+?,19.0,?,T,other,other,other,1.0,4.0,3.0,3.0,4.0,12,12,Good
+M,17.0,LE3,T,?,other,mother,1.0,5.0,3.0,3.0,15.0,13,12,Good
+F,16.0,GT3,A,other,other,mother,1.0,3.0,3.0,4.0,0.0,13,13,Good
+M,18.0,GT3,T,services,other,mother,1.0,4.0,4.0,5.0,10.0,12,11,Good
+F,17.0,LE3,T,services,other,mother,1.0,5.0,2.0,3.0,6.0,12,11,Good
+F,17.0,?,T,other,other,mother,2.0,4.0,4.0,1.0,2.0,14,16,Very Good
+?,17.0,GT3,T,other,other,mother,1.0,3.0,4.0,,16.0,11,9,Good
+M,18.0,LE3,T,services,health,father,1.0,3.0,2.0,4.0,10.0,10,10,Good
+F,17.0,GT3,?,at_home,other,father,2.0,3.0,3.0,3.0,4.0,12,13,Good
+F,17.0,GT3,T,at_home,at_home,mother,1.0,4.0,3.0,4.0,,12,12,Good
+F,17.0,GT3,T,at_home,services,mother,2.0,4.0,2.0,5.0,0.0,11,10,Good
+F,17.0,GT3,T,at_home,other,mother,1.0,4.0,3.0,5.0,12.0,12,12,Good
+F,16.0,GT3,T,services,teacher,mother,1.0,2.0,3.0,3.0,0.0,13,13,Very Good
+M,18.0,GT3,T,other,other,mother,2.0,3.0,3.0,4.0,9.0,10,9,Good
+F,16.0,GT3,T,teacher,services,mother,1.0,5.0,3.0,5.0,4.0,15,16,Very Good
+F,18.0,GT3,T,other,other,mother,1.0,5.0,3.0,4.0,4.0,8,8,Fair
+F,17.0,GT3,?,other,other,mother,1.0,5.0,3.0,3.0,2.0,17,18,Excellent
+M,17.0,LE3,T,services,services,father,1.0,5.0,3.0,3.0,0.0,10,11,Good
+M,18.0,LE3,T,at_home,?,mother,4.0,4.0,3.0,3.0,2.0,9,10,Good
+F,17.0,GT3,A,other,other,mother,2.0,3.0,2.0,3.0,0.0,15,15,Very Good
+F,17.0,LE3,T,health,other,father,1.0,3.0,2.0,3.0,0.0,14,12,Good
+M,17.0,GT3,T,other,other,?,2.0,4.0,5.0,1.0,0.0,12,13,Good
+M,17.0,?,T,teacher,teacher,mother,1.0,4.0,5.0,2.0,0.0,13,13,Good
+M,16.0,GT3,T,health,other,father,1.0,4.0,2.0,1.0,0.0,13,13,Very Good
+M,16.0,LE3,T,other,other,mother,2.0,3.0,4.0,5.0,2.0,9,9,Fair
+M,16.0,GT3,T,at_home,other,mother,2.0,5.0,3.0,2.0,0.0,12,12,Good
+M,17.0,LE3,T,other,other,father,1.0,4.0,4.0,4.0,0.0,16,16,Very Good
+F,16.0,GT3,T,other,other,mother,1.0,,5.0,5.0,4.0,9,10,Good
+F,16.0,GT3,A,other,other,mother,1.0,5.0,3.0,5.0,0.0,14,13,Good
+F,18.0,?,A,services,other,mother,2.0,4.0,3.0,3.0,18.0,10,10,Good
+F,18.0,LE3,T,at_home,services,mother,1.0,5.0,3.0,5.0,16.0,9,8,Good
+F,18.0,GT3,T,other,other,mother,2.0,4.0,1.0,3.0,14.0,8,7,Fair
+M,18.0,GT3,T,other,at_home,other,1.0,4.0,4.0,1.0,26.0,7,8,Fair
+?,17.0,GT3,T,teacher,teacher,mother,1.0,4.0,2.0,5.0,6.0,10,8,Fair
+F,17.0,GT3,T,other,other,?,1.0,5.0,4.0,3.0,4.0,14,14,Very Good
+F,17.0,LE3,T,at_home,at_home,mother,1.0,4.0,3.0,4.0,10.0,11,10,Good
+F,16.0,GT3,T,other,other,mother,1.0,5.0,3.0,5.0,4.0,12,11,Good
+F,17.0,GT3,T,at_home,services,mother,3.0,2.0,1.0,3.0,2.0,13,13,Good
+F,17.0,LE3,A,other,other,other,4.0,5.0,5.0,5.0,14.0,9,9,Fair
+M,18.0,GT3,T,?,services,father,1.0,5.0,5.0,2.0,16.0,8,7,Fair
+F,17.0,LE3,A,other,other,mother,1.0,3.0,1.0,1.0,8.0,11,9,Good
+F,17.0,LE3,T,at_home,other,mother,2.0,4.0,3.0,5.0,4.0,15,14,Very Good
+F,17.0,LE3,A,teacher,other,mother,1.0,4.0,3.0,4.0,4.0,15,14,Very Good
+M,17.0,LE3,T,health,other,?,2.0,2.0,5.0,5.0,8.0,15,15,Very Good
+M,,LE3,A,teacher,other,mother,2.0,3.0,3.0,4.0,0.0,12,12,Good
+M,16.0,LE3,T,teacher,other,mother,,5.0,4.0,3.0,7.0,14,14,Very Good
+M,16.0,GT3,T,services,services,mother,1.0,5.0,3.0,,4.0,14,15,Very Good
+F,17.0,GT3,T,teacher,services,?,1.0,5.0,3.0,5.0,2.0,11,11,Good
+M,17.0,GT3,T,other,other,father,2.0,4.0,3.0,1.0,2.0,13,14,Very Good
+F,17.0,GT3,T,services,other,mother,2.0,4.0,2.0,5.0,10.0,11,11,Good
+F,17.0,GT3,T,at_home,other,mother,1.0,4.0,3.0,4.0,10.0,10,9,Good
+F,18.0,GT3,T,other,other,other,2.0,4.0,4.0,3.0,10.0,12,10,Good
+?,16.0,GT3,T,other,other,mother,3.0,4.0,3.0,4.0,7.0,15,16,Very Good
+F,17.0,GT3,T,other,services,father,1.0,4.0,3.0,5.0,4.0,11,10,Good
+M,17.0,GT3,T,other,other,father,2.0,5.0,2.0,2.0,2.0,9,12,Good
+M,22.0,GT3,T,?,services,mother,1.0,5.0,4.0,1.0,12.0,7,8,Fair
+M,18.0,LE3,T,other,services,mother,1.0,4.0,3.0,5.0,8.0,10,9,Good
+M,16.0,GT3,T,other,other,mother,1.0,4.0,3.0,5.0,0.0,11,12,Good
+M,18.0,GT3,T,services,other,mother,2.0,,4.0,,8.0,7,8,Fair
+M,16.0,GT3,T,at_home,other,other,3.0,5.0,3.0,2.0,4.0,9,11,Good
+M,18.0,GT3,T,services,services,mother,1.0,3.0,2.0,5.0,,7,8,Fair
+M,16.0,GT3,T,other,other,mother,2.0,3.0,3.0,3.0,2.0,14,13,Good
+M,17.0,GT3,T,other,other,mother,1.0,4.0,4.0,5.0,0.0,12,12,Good
+M,17.0,LE3,T,health,other,mother,2.0,4.0,4.0,5.0,0.0,9,10,Good
+F,18.0,LE3,A,?,other,mother,1.0,4.0,3.0,5.0,2.0,12,12,Good
+F,17.0,LE3,T,teacher,services,mother,1.0,4.0,2.0,4.0,2.0,14,15,Excellent
+F,19.0,GT3,T,services,services,mother,1.0,4.0,3.0,5.0,0.0,10,10,Good
+M,18.0,LE3,T,services,other,mother,3.0,4.0,4.0,5.0,4.0,11,10,Good
+F,17.0,GT3,T,other,other,mother,1.0,4.0,3.0,5.0,2.0,11,12,Very Good
+F,18.0,LE3,T,other,at_home,mother,1.0,4.0,4.0,3.0,4.0,11,12,Very Good
+F,18.0,GT3,T,other,other,mother,1.0,3.0,2.0,5.0,4.0,11,11,Good
+M,19.0,LE3,A,?,at_home,mother,1.0,4.0,3.0,1.0,4.0,11,13,Very Good
+M,18.0,GT3,T,other,other,mother,1.0,5.0,2.0,4.0,2.0,16,16,Very Good
+M,17.0,GT3,T,other,services,mother,2.0,5.0,2.0,4.0,0.0,9,10,Good
+F,17.0,LE3,T,services,services,father,1.0,3.0,4.0,2.0,2.0,10,11,Good
+F,20.0,GT3,T,other,other,other,2.0,1.0,2.0,2.0,8.0,10,12,Good
+F,18.0,GT3,T,services,other,father,1.0,3.0,1.0,2.0,2.0,15,15,Very Good
+M,18.0,GT3,T,?,other,mother,1.0,4.0,3.0,3.0,2.0,10,10,Good
+M,18.0,GT3,T,other,other,mother,1.0,5.0,3.0,3.0,2.0,10,11,Good
+F,17.0,GT3,T,other,other,mother,1.0,3.0,2.0,4.0,,15,12,Good
+F,18.0,GT3,T,at_home,services,mother,1.0,4.0,3.0,3.0,0.0,11,12,Good
+M,17.0,GT3,T,other,other,father,2.0,4.0,4.0,4.0,8.0,8,8,Fair
+M,18.0,LE3,A,other,other,mother,2.0,4.0,2.0,1.0,6.0,15,16,Very Good
+M,17.0,GT3,T,services,other,mother,1.0,5.0,4.0,5.0,0.0,11,11,Very Good
+F,,GT3,T,teacher,other,mother,2.0,4.0,3.0,4.0,8.0,10,11,Good
+M,18.0,GT3,T,health,other,father,1.0,5.0,4.0,5.0,4.0,10,12,Very Good
+F,18.0,GT3,T,other,other,mother,2.0,4.0,3.0,3.0,12.0,8,9,Good
+F,19.0,GT3,T,other,services,other,1.0,4.0,3.0,5.0,16.0,11,12,Good
+F,18.0,GT3,T,other,services,father,1.0,4.0,5.0,2.0,10.0,16,16,Very Good
+F,18.0,LE3,T,other,other,mother,2.0,4.0,,3.0,2.0,13,13,Good
+M,17.0,GT3,T,at_home,at_home,mother,1.0,3.0,5.0,1.0,2.0,16,17,Excellent
+F,,GT3,T,other,other,mother,1.0,4.0,2.0,1.0,8.0,14,14,Very Good
+F,17.0,GT3,T,at_home,health,mother,2.0,4.0,3.0,1.0,6.0,15,16,Very Good
+F,17.0,LE3,T,services,other,mother,2.0,4.0,4.0,5.0,6.0,12,12,Good
+F,18.0,GT3,A,other,services,mother,2.0,4.0,1.0,5.0,15.0,12,9,Good
+M,18.0,GT3,T,teacher,services,mother,2.0,3.0,2.0,3.0,6.0,11,12,Good
+F,18.0,GT3,T,health,health,father,,2.0,4.0,4.0,2.0,14,12,Good
+F,17.0,GT3,T,other,services,father,3.0,4.0,2.0,1.0,8.0,13,15,Very Good
+F,19.0,GT3,T,services,services,father,,3.0,3.0,3.0,0.0,9,8,Good
+M,18.0,LE3,T,teacher,services,mother,2.0,4.0,2.0,1.0,0.0,10,10,Good
+M,18.0,GT3,?,at_home,other,other,2.0,3.0,4.0,4.0,10.0,10,10,Good
+M,17.0,LE3,A,services,other,mother,2.0,4.0,5.0,5.0,22.0,11,11,Good
+M,17.0,LE3,A,teacher,services,mother,1.0,4.0,4.0,3.0,18.0,13,13,Good
+F,18.0,LE3,T,at_home,other,mother,2.0,5.0,2.0,3.0,2.0,17,17,Excellent
+F,18.0,GT3,T,other,other,mother,2.0,5.0,4.0,4.0,0.0,12,13,Good
+F,17.0,GT3,T,other,other,mother,1.0,5.0,4.0,5.0,12.0,12,12,Very Good
+F,18.0,GT3,T,other,other,mother,2.0,4.0,,,10.0,12,13,Very Good
+M,17.0,GT3,T,other,other,father,1.0,4.0,3.0,4.0,0.0,12,12,Good
+F,18.0,GT3,T,at_home,at_home,mother,1.0,4.0,3.0,2.0,0.0,18,18,Excellent
+F,17.0,GT3,T,services,teacher,mother,1.0,4.0,3.0,3.0,0.0,13,13,Very Good
+M,18.0,GT3,T,services,services,mother,1.0,4.0,2.0,2.0,0.0,14,15,Very Good
+M,18.0,LE3,A,teacher,teacher,?,1.0,5.0,4.0,2.0,0.0,17,17,Excellent
+M,18.0,GT3,T,teacher,other,mother,1.0,4.0,3.0,5.0,2.0,15,16,Very Good
+F,,GT3,T,?,services,mother,,4.0,2.0,3.0,0.0,17,18,Excellent
+F,17.0,LE3,T,services,other,mother,2.0,3.0,1.0,3.0,0.0,18,19,Excellent
+M,18.0,LE3,T,services,other,mother,2.0,5.0,4.0,4.0,,14,15,Very Good
+M,17.0,GT3,T,health,other,mother,1.0,4.0,4.0,5.0,0.0,14,15,Very Good
+?,19.0,GT3,T,health,other,other,2.0,2.0,3.0,2.0,2.0,14,13,Good
+F,18.0,LE3,T,other,other,other,2.0,4.0,4.0,2.0,0.0,13,14,Very Good
+F,18.0,GT3,T,other,other,father,1.0,4.0,3.0,3.0,,16,17,Excellent
+M,18.0,LE3,T,teacher,teacher,mother,1.0,1.0,4.0,1.0,0.0,18,18,Excellent
+F,18.0,LE3,A,?,other,mother,1.0,4.0,2.0,4.0,0.0,14,15,Very Good
+M,17.0,LE3,T,other,teacher,father,2.0,4.0,1.0,5.0,0.0,12,13,Good
+F,17.0,GT3,T,services,services,mother,2.0,,3.0,5.0,0.0,7,7,Fair
+?,17.0,GT3,T,other,other,mother,2.0,4.0,3.0,3.0,0.0,16,16,Very Good
+F,17.0,?,T,health,health,father,1.0,5.0,2.0,5.0,0.0,18,18,Excellent
+M,19.0,LE3,T,at_home,services,mother,2.0,4.0,3.0,5.0,0.0,9,10,Good
+M,20.0,GT3,A,services,other,other,1.0,5.0,5.0,5.0,0.0,14,15,Very Good
+M,19.0,GT3,T,other,services,father,1.0,4.0,5.0,5.0,0.0,10,10,Good
+F,,GT3,T,other,teacher,mother,1.0,3.0,4.0,5.0,2.0,10,10,Good
+F,18.0,GT3,T,services,other,mother,2.0,5.0,3.0,1.0,2.0,12,12,Very Good
+F,17.0,GT3,T,other,other,father,2.0,4.0,2.0,3.0,2.0,11,12,Very Good
+F,17.0,GT3,T,teacher,teacher,mother,1.0,4.0,4.0,5.0,2.0,15,16,Excellent
+F,18.0,GT3,T,other,other,mother,1.0,4.0,3.0,5.0,2.0,14,15,Excellent
+F,18.0,LE3,T,health,services,mother,2.0,3.0,2.0,1.0,8.0,12,12,Very Good
+F,17.0,GT3,T,at_home,services,father,1.0,4.0,3.0,5.0,2.0,15,15,Excellent
+F,18.0,GT3,T,at_home,other,father,1.0,4.0,1.0,3.0,8.0,11,12,Very Good
+M,19.0,GT3,T,health,other,mother,2.0,5.0,4.0,1.0,9.0,11,10,Good
+F,18.0,GT3,T,teacher,other,mother,1.0,4.0,4.0,5.0,0.0,12,11,Good
+F,18.0,GT3,T,other,other,mother,1.0,5.0,4.0,1.0,4.0,11,12,Very Good
+F,17.0,GT3,T,health,health,mother,1.0,5.0,3.0,5.0,2.0,14,15,Excellent
+F,17.0,GT3,A,services,services,mother,1.0,5.0,2.0,5.0,14.0,15,14,Excellent
+F,17.0,LE3,A,services,other,mother,1.0,5.0,3.0,5.0,,12,12,Good
+F,17.0,LE3,T,other,other,father,1.0,4.0,2.0,2.0,2.0,11,12,Very Good
+M,18.0,LE3,T,other,other,father,1.0,4.0,2.0,5.0,2.0,8,9,Good
+F,19.0,GT3,T,other,other,other,3.0,1.0,5.0,5.0,12.0,10,10,Good
+F,19.0,LE3,A,other,other,other,3.0,5.0,3.0,4.0,2.0,8,8,Fair
+F,18.0,GT3,T,other,other,mother,1.0,4.0,3.0,5.0,2.0,10,10,Good
+F,17.0,GT3,T,other,other,mother,1.0,4.0,2.0,3.0,4.0,14,13,Good
+F,17.0,LE3,T,services,services,mother,,3.0,3.0,3.0,0.0,11,11,Good
+F,17.0,GT3,T,services,services,father,1.0,3.0,4.0,5.0,0.0,17,18,Excellent
+F,17.0,LE3,T,at_home,at_home,father,2.0,3.0,3.0,2.0,0.0,14,14,Very Good
+F,18.0,GT3,T,other,other,mother,2.0,4.0,5.0,2.0,0.0,14,14,Very Good
+M,18.0,GT3,T,other,other,mother,1.0,4.0,3.0,3.0,0.0,13,14,Good
+M,17.0,GT3,T,?,services,mother,1.0,4.0,3.0,5.0,0.0,17,18,Excellent
+?,17.0,GT3,T,services,other,mother,4.0,4.0,4.0,4.0,2.0,11,10,Good
+F,17.0,GT3,T,teacher,services,mother,1.0,5.0,4.0,4.0,0.0,13,12,Good
+F,17.0,GT3,T,teacher,teacher,mother,2.0,4.0,3.0,4.0,4.0,15,14,Very Good
+F,17.0,GT3,T,at_home,other,mother,1.0,4.0,2.0,5.0,2.0,11,12,Good
+M,18.0,LE3,T,other,other,mother,1.0,4.0,5.0,5.0,0.0,11,11,Good
+M,19.0,GT3,T,at_home,services,other,1.0,,3.0,5.0,0.0,11,10,Good
+F,18.0,?,T,at_home,other,mother,4.0,4.0,2.0,2.0,,10,9,Good
+F,17.0,GT3,T,at_home,other,father,1.0,4.0,4.0,5.0,0.0,15,15,Very Good
+M,,GT3,T,other,other,mother,1.0,,4.0,5.0,6.0,15,14,Very Good
+F,18.0,GT3,T,services,services,mother,1.0,5.0,3.0,4.0,8.0,10,11,Good
+F,18.0,LE3,T,other,?,other,1.0,4.0,3.0,2.0,0.0,10,9,Good
+F,18.0,GT3,T,at_home,other,mother,2.0,4.0,4.0,4.0,6.0,14,13,Very Good
+F,17.0,?,T,services,other,mother,1.0,4.0,4.0,5.0,8.0,11,13,Very Good
+F,17.0,GT3,T,other,other,mother,1.0,4.0,,,0.0,12,13,Very Good
+F,18.0,LE3,T,services,services,mother,1.0,5.0,3.0,1.0,4.0,14,14,Very Good
+F,17.0,GT3,A,other,other,mother,1.0,4.0,3.0,2.0,0.0,14,14,Very Good
+M,18.0,GT3,T,teacher,services,father,1.0,4.0,3.0,2.0,0.0,12,12,Good
+M,18.0,LE3,T,services,other,mother,1.0,4.0,3.0,5.0,6.0,16,16,Excellent
+F,17.0,GT3,A,?,at_home,father,1.0,3.0,3.0,4.0,18.0,10,12,Very Good
+F,18.0,GT3,T,at_home,other,mother,1.0,4.0,3.0,3.0,0.0,11,12,Very Good
+F,18.0,GT3,T,other,services,mother,1.0,5.0,4.0,1.0,4.0,14,16,Excellent
+?,18.0,GT3,T,teacher,?,mother,1.0,5.0,3.0,4.0,4.0,15,14,Excellent
+M,18.0,GT3,T,teacher,other,mother,1.0,5.0,4.0,5.0,0.0,14,13,Very Good
+F,,GT3,T,health,other,mother,1.0,4.0,,4.0,0.0,11,12,Good
+F,17.0,GT3,T,services,other,mother,,4.0,3.0,1.0,10.0,12,15,Very Good
+F,17.0,GT3,T,services,other,mother,1.0,4.0,3.0,4.0,4.0,12,16,Very Good
+F,19.0,LE3,A,at_home,other,other,2.0,2.0,2.0,5.0,16.0,10,11,Good
+F,17.0,GT3,T,other,at_home,mother,,4.0,1.0,3.0,6.0,10,13,Good
+F,21.0,LE3,T,other,other,other,1.0,3.0,3.0,5.0,,9,12,Good
+M,18.0,LE3,T,services,services,mother,1.0,4.0,4.0,3.0,11.0,9,11,Good
+M,18.0,LE3,A,other,other,other,1.0,4.0,3.0,2.0,9.0,13,14,Very Good
+F,17.0,GT3,T,services,services,mother,1.0,4.0,3.0,4.0,0.0,13,17,Excellent
+M,17.0,LE3,A,health,other,mother,1.0,4.0,4.0,4.0,2.0,12,15,Very Good
+F,18.0,LE3,T,teacher,other,mother,1.0,4.0,2.0,3.0,0.0,14,17,Excellent
+M,21.0,LE3,T,at_home,?,other,2.0,5.0,3.0,4.0,21.0,9,10,Good
+F,20.0,GT3,T,other,other,other,2.0,3.0,2.0,3.0,8.0,11,15,Very Good
+F,19.0,GT3,T,teacher,other,?,1.0,3.0,2.0,5.0,5.0,9,10,Good
+M,17.0,LE3,A,other,other,mother,1.0,4.0,4.0,5.0,10.0,16,18,Excellent
+F,18.0,GT3,T,at_home,other,father,1.0,4.0,3.0,2.0,5.0,14,17,Excellent
+?,18.0,GT3,T,other,services,father,1.0,3.0,1.0,4.0,13.0,13,14,Very Good
+M,19.0,GT3,T,other,?,mother,1.0,5.0,3.0,4.0,10.0,7,11,Good
+F,18.0,LE3,A,services,other,mother,2.0,4.0,1.0,4.0,10.0,14,17,Excellent
+F,20.0,GT3,T,other,other,mother,2.0,5.0,3.0,5.0,5.0,8,10,Good
+F,18.0,GT3,T,services,other,mother,1.0,3.0,1.0,1.0,4.0,10,13,Good
+F,16.0,GT3,T,at_home,other,father,2.0,4.0,3.0,5.0,11.0,10,11,Good
+F,16.0,GT3,T,other,other,mother,2.0,4.0,4.0,5.0,0.0,12,12,Good
+F,15.0,GT3,T,at_home,services,mother,1.0,4.0,1.0,2.0,6.0,10,10,Good
+F,15.0,GT3,T,?,other,mother,2.0,5.0,4.0,5.0,4.0,10,10,Good
+F,16.0,GT3,T,at_home,services,mother,2.0,4.0,5.0,5.0,0.0,16,17,Excellent
+F,15.0,LE3,T,at_home,other,mother,2.0,1.0,3.0,1.0,0.0,6,8,Fair
+M,16.0,LE3,A,at_home,other,mother,1.0,5.0,3.0,2.0,5.0,10,11,Good
+M,16.0,GT3,A,other,other,mother,1.0,4.0,4.0,5.0,0.0,10,11,Good
+F,17.0,GT3,T,?,other,father,1.0,4.0,5.0,5.0,0.0,10,10,Good
+F,17.0,GT3,T,other,other,father,1.0,5.0,4.0,5.0,0.0,6,6,Fair
+F,15.0,GT3,T,teacher,other,mother,2.0,1.0,5.0,5.0,0.0,13,14,Very Good
+F,16.0,LE3,A,?,other,mother,2.0,1.0,2.0,1.0,4.0,10,9,Good
+F,15.0,LE3,T,at_home,services,father,2.0,5.0,4.0,4.0,0.0,10,10,Good
+F,15.0,LE3,T,other,services,mother,2.0,4.0,4.0,2.0,4.0,6,7,Fair
+F,16.0,GT3,T,other,other,mother,,3.0,2.0,2.0,0.0,12,11,Good
+F,17.0,GT3,T,other,other,mother,2.0,5.0,5.0,,2.0,10,11,Good
+F,15.0,GT3,T,other,services,father,2.0,4.0,1.0,4.0,0.0,14,16,Very Good
+M,16.0,GT3,T,at_home,services,mother,2.0,5.0,4.0,3.0,0.0,7,0,Poor
+?,17.0,GT3,?,other,other,mother,1.0,4.0,4.0,5.0,4.0,8,9,Fair
+M,15.0,LE3,T,health,services,father,1.0,5.0,3.0,2.0,0.0,12,13,Very Good
+M,15.0,LE3,T,?,services,father,1.0,5.0,3.0,2.0,7.0,7,9,Fair
+M,16.0,GT3,T,other,health,mother,3.0,3.0,4.0,5.0,4.0,9,10,Good
+M,15.0,GT3,T,other,other,mother,4.0,5.0,4.0,4.0,8.0,7,9,Fair
+M,15.0,LE3,T,?,at_home,father,1.0,5.0,3.0,5.0,0.0,11,11,Good
+M,17.0,GT3,T,other,other,mother,3.0,5.0,5.0,3.0,8.0,8,10,Fair
+F,16.0,GT3,T,teacher,teacher,mother,2.0,4.0,2.0,4.0,6.0,16,16,Excellent
+F,15.0,GT3,T,other,services,mother,2.0,5.0,1.0,1.0,3.0,11,13,Good
+F,16.0,GT3,T,other,services,mother,3.0,4.0,5.0,1.0,2.0,15,15,Very Good
+M,16.0,GT3,T,other,other,father,2.0,4.0,3.0,5.0,0.0,10,11,Good
+F,16.0,GT3,T,?,other,mother,3.0,4.0,4.0,4.0,,9,10,Good
+F,16.0,GT3,T,other,services,mother,1.0,1.0,3.0,4.0,0.0,10,8,Fair
+F,16.0,GT3,T,other,services,mother,1.0,1.0,3.0,4.0,,9,8,Fair
+F,15.0,GT3,T,at_home,other,mother,1.0,4.0,4.0,,0.0,9,10,Fair
+F,16.0,GT3,T,at_home,other,father,1.0,5.0,4.0,2.0,0.0,13,14,Very Good
+M,17.0,LE3,T,at_home,services,mother,1.0,5.0,5.0,3.0,4.0,10,11,Good
+F,16.0,GT3,T,other,other,father,4.0,4.0,3.0,1.0,0.0,13,10,Good
+F,16.0,GT3,T,at_home,other,father,4.0,4.0,,,2.0,10,9,Good
+F,15.0,?,T,at_home,other,father,2.0,4.0,3.0,2.0,1.0,11,10,Good
+F,16.0,GT3,T,at_home,other,?,2.0,4.0,2.0,2.0,0.0,13,12,Very Good
+F,15.0,GT3,T,at_home,at_home,father,3.0,4.0,2.0,2.0,0.0,13,14,Very Good
+F,15.0,?,T,other,other,father,1.0,4.0,4.0,5.0,2.0,14,11,Good
+M,16.0,GT3,T,at_home,other,father,2.0,3.0,4.0,5.0,6.0,11,11,Good
+F,18.0,GT3,T,other,other,father,1.0,3.0,4.0,5.0,9.0,9,8,Fair
+M,15.0,GT3,T,other,services,?,2.0,3.0,2.0,4.0,0.0,10,9,Good
+F,16.0,GT3,T,other,services,father,3.0,5.0,3.0,2.0,1.0,14,13,Very Good
+M,15.0,GT3,T,health,other,mother,3.0,4.0,3.0,4.0,1.0,13,12,Good
+M,16.0,GT3,T,other,teacher,?,1.0,4.0,3.0,3.0,0.0,13,12,Good
+F,15.0,GT3,T,services,other,mother,1.0,4.0,5.0,1.0,,13,12,Good
+F,16.0,GT3,T,at_home,other,mother,2.0,4.0,4.0,5.0,2.0,12,11,Good
+F,,LE3,T,other,other,father,3.0,4.0,3.0,4.0,0.0,14,14,Very Good
+M,16.0,LE3,T,?,services,mother,2.0,2.0,4.0,4.0,4.0,10,8,Good
+M,15.0,LE3,T,at_home,other,father,3.0,4.0,2.0,3.0,2.0,10,11,Good
+F,15.0,GT3,T,other,services,mother,2.0,5.0,3.0,4.0,,12,13,Very Good
+F,,LE3,T,other,other,mother,1.0,5.0,,5.0,2.0,10,8,Fair
+M,15.0,GT3,T,services,services,father,2.0,4.0,3.0,3.0,11.0,12,10,Good
+F,16.0,GT3,T,at_home,other,father,2.0,3.0,4.0,1.0,0.0,7,7,Fair
+F,17.0,GT3,T,other,at_home,mother,1.0,4.0,5.0,5.0,4.0,9,9,Good
+F,19.0,GT3,T,?,services,other,1.0,4.0,4.0,2.0,0.0,9,9,Good
+F,17.0,GT3,T,at_home,other,mother,3.0,5.0,5.0,3.0,2.0,9,10,Good
+F,15.0,LE3,T,at_home,other,mother,2.0,5.0,2.0,4.0,0.0,9,10,Fair
+F,16.0,GT3,T,other,other,father,3.0,3.0,4.0,1.0,1.0,9,10,Good
+F,16.0,?,A,other,other,?,1.0,4.0,3.0,1.0,6.0,7,7,Fair
+F,17.0,GT3,T,at_home,other,mother,2.0,4.0,3.0,4.0,0.0,11,10,Good
+F,16.0,GT3,T,other,services,father,1.0,4.0,4.0,3.0,1.0,9,10,Good
+F,18.0,LE3,A,?,other,other,2.0,3.0,3.0,2.0,6.0,7,9,Good
+?,19.0,GT3,T,at_home,services,mother,1.0,5.0,3.0,3.0,6.0,7,9,Fair
+M,,GT3,T,other,other,?,2.0,4.0,4.0,4.0,0.0,8,9,Good
+F,18.0,GT3,T,at_home,at_home,mother,2.0,3.0,2.0,2.0,4.0,9,11,Good
+F,19.0,GT3,T,other,other,other,2.0,1.0,1.0,1.0,12.0,7,8,Fair
+F,16.0,GT3,A,health,other,mother,1.0,,3.0,3.0,2.0,8,10,Good
+F,17.0,GT3,T,other,at_home,father,2.0,2.0,4.0,5.0,5.0,9,9,Good
+F,16.0,LE3,T,at_home,other,mother,1.0,4.0,4.0,3.0,0.0,8,9,Fair
+F,16.0,GT3,T,other,other,mother,1.0,4.0,5.0,4.0,0.0,14,13,Good
+F,16.0,LE3,T,services,services,mother,1.0,4.0,4.0,4.0,2.0,14,14,Very Good
+M,17.0,GT3,T,services,at_home,mother,2.0,5.0,4.0,5.0,0.0,10,11,Good
+?,16.0,GT3,T,other,services,mother,1.0,5.0,3.0,1.0,0.0,14,13,Very Good
+F,16.0,GT3,T,services,other,mother,1.0,4.0,2.0,5.0,0.0,17,16,Very Good
+M,17.0,GT3,T,other,other,father,1.0,5.0,3.0,1.0,12.0,6,7,Fair
+M,16.0,LE3,T,other,other,father,1.0,4.0,2.0,5.0,8.0,14,12,Good
+M,17.0,LE3,T,services,services,?,3.0,1.0,3.0,3.0,2.0,10,8,Fair
+F,16.0,GT3,T,other,other,other,,2.0,2.0,5.0,0.0,14,14,Very Good
+F,19.0,?,T,other,other,mother,1.0,5.0,4.0,1.0,0.0,12,13,Good
+F,17.0,GT3,T,at_home,other,?,2.0,4.0,4.0,5.0,0.0,11,11,Good
+F,20.0,GT3,T,at_home,services,mother,2.0,3.0,3.0,3.0,8.0,11,9,Good
+F,17.0,LE3,T,other,services,father,1.0,4.0,3.0,3.0,0.0,11,11,Good
+M,17.0,GT3,T,other,other,mother,,4.0,4.0,5.0,0.0,10,9,Fair
+F,16.0,LE3,T,at_home,other,father,3.0,5.0,3.0,1.0,0.0,16,17,Excellent
+?,17.0,?,T,other,other,mother,2.0,5.0,3.0,1.0,0.0,15,17,Excellent
+?,17.0,GT3,A,other,other,mother,2.0,4.0,4.0,4.0,,11,9,Good
+F,18.0,GT3,T,at_home,other,mother,1.0,4.0,3.0,5.0,9.0,7,7,Fair
+F,16.0,GT3,T,other,other,mother,1.0,3.0,1.0,1.0,0.0,8,6,Fair
+F,16.0,GT3,T,services,at_home,mother,1.0,3.0,1.0,3.0,2.0,7,6,Fair
+F,18.0,?,T,other,at_home,mother,2.0,2.0,3.0,3.0,8.0,9,8,Good
+F,16.0,GT3,T,health,teacher,father,1.0,4.0,3.0,2.0,0.0,14,16,Very Good
+F,16.0,?,T,other,other,mother,2.0,5.0,4.0,2.0,0.0,14,14,Very Good
+F,18.0,GT3,A,other,services,father,1.0,2.0,3.0,1.0,8.0,8,5,Fair
+M,16.0,GT3,T,other,services,mother,2.0,5.0,2.0,2.0,0.0,8,7,Poor
+F,16.0,LE3,T,at_home,other,mother,,4.0,3.0,5.0,6.0,6,8,Fair
+F,16.0,GT3,T,at_home,?,mother,2.0,3.0,3.0,2.0,0.0,8,10,Good
+F,16.0,GT3,T,health,health,mother,1.0,4.0,3.0,3.0,4.0,8,8,Fair
+M,18.0,LE3,T,at_home,health,mother,1.0,5.0,5.0,5.0,2.0,5,6,Fair
+F,16.0,LE3,T,at_home,other,?,3.0,4.0,2.0,2.0,2.0,7,9,Fair
+M,17.0,LE3,T,other,services,mother,1.0,4.0,4.0,5.0,0.0,15,14,Very Good
+F,17.0,GT3,T,other,other,mother,1.0,4.0,2.0,5.0,1.0,13,14,Very Good
+M,16.0,LE3,T,services,services,mother,4.0,5.0,1.0,3.0,0.0,10,9,Good
+F,17.0,GT3,T,at_home,other,mother,1.0,5.0,1.0,5.0,5.0,9,9,Fair
+F,16.0,LE3,T,services,services,father,2.0,5.0,1.0,5.0,1.0,11,11,Good
+M,17.0,GT3,T,services,services,mother,1.0,4.0,1.0,3.0,8.0,7,10,Fair
+M,17.0,GT3,T,at_home,services,mother,3.0,5.0,1.0,1.0,0.0,10,10,Good
+M,16.0,GT3,T,health,services,mother,2.0,4.0,2.0,5.0,2.0,9,7,Fair
+F,16.0,LE3,T,other,services,mother,1.0,3.0,2.0,3.0,0.0,14,15,Very Good
+M,16.0,LE3,T,teacher,health,father,1.0,4.0,1.0,5.0,0.0,11,12,Good
+M,15.0,GT3,T,other,services,mother,3.0,5.0,5.0,5.0,11.0,9,11,Good
+M,15.0,LE3,A,other,other,mother,3.0,5.0,4.0,5.0,8.0,13,14,Very Good
+M,15.0,?,A,services,services,mother,1.0,4.0,3.0,5.0,11.0,12,13,Good
+F,16.0,LE3,T,other,other,mother,1.0,4.0,3.0,5.0,2.0,11,11,Good
+F,16.0,LE3,T,other,other,mother,2.0,1.0,2.0,1.0,8.0,9,10,Good
+F,17.0,GT3,?,at_home,other,mother,2.0,4.0,3.0,1.0,5.0,9,11,Good
+F,17.0,GT3,T,other,other,mother,2.0,5.0,1.0,5.0,0.0,11,9,Good
+F,16.0,GT3,T,teacher,services,mother,2.0,5.0,3.0,5.0,1.0,10,11,Good
+M,17.0,GT3,T,health,other,father,3.0,3.0,3.0,5.0,2.0,9,9,Fair
+M,17.0,LE3,T,other,other,father,2.0,5.0,1.0,5.0,2.0,12,11,Good
+M,17.0,GT3,T,services,other,mother,1.0,5.0,4.0,5.0,8.0,8,9,Fair
+?,17.0,GT3,T,health,health,father,1.0,5.0,2.0,5.0,0.0,13,15,Very Good
+M,16.0,LE3,T,other,at_home,father,1.0,4.0,1.0,2.0,0.0,10,11,Good
+F,17.0,GT3,A,at_home,at_home,mother,1.0,4.0,5.0,3.0,2.0,11,10,Good
+F,17.0,GT3,T,other,other,mother,2.0,4.0,3.0,5.0,0.0,17,18,Excellent
+M,16.0,LE3,?,other,services,father,2.0,4.0,1.0,5.0,0.0,12,13,Good
+M,17.0,GT3,T,other,other,father,2.0,4.0,1.0,1.0,0.0,13,14,Good
+M,19.0,GT3,T,other,other,mother,1.0,4.0,4.0,4.0,2.0,9,9,Good
+M,17.0,LE3,A,other,other,mother,1.0,4.0,1.0,5.0,,11,11,Good
+F,17.0,GT3,T,at_home,at_home,father,2.0,3.0,5.0,4.0,3.0,10,11,Good
+F,,GT3,?,other,other,father,1.0,4.0,3.0,3.0,5.0,13,14,Good
+M,16.0,LE3,T,other,at_home,mother,1.0,,4.0,5.0,4.0,9,10,Good
+F,17.0,GT3,T,other,other,mother,2.0,5.0,4.0,5.0,2.0,7,9,Good
+M,17.0,GT3,T,other,other,mother,2.0,5.0,5.0,5.0,0.0,8,13,Good
+M,18.0,GT3,T,at_home,at_home,other,3.0,,3.0,4.0,0.0,12,12,Good
+M,17.0,GT3,T,other,services,mother,2.0,4.0,5.0,,0.0,10,9,Good
+M,18.0,LE3,T,at_home,at_home,mother,,4.0,3.0,5.0,6.0,10,9,Good
+F,16.0,LE3,T,other,services,father,1.0,5.0,4.0,1.0,0.0,11,13,Good
+M,17.0,GT3,T,other,other,mother,1.0,1.0,2.0,5.0,0.0,7,0,Poor
+M,16.0,GT3,T,services,other,father,2.0,4.0,5.0,5.0,2.0,11,9,Good
+M,16.0,LE3,T,at_home,other,?,2.0,4.0,,5.0,0.0,10,10,Fair
+M,18.0,GT3,?,services,other,other,2.0,5.0,3.0,5.0,2.0,9,7,Fair
+M,18.0,GT3,T,services,other,mother,1.0,2.0,3.0,5.0,0.0,4,0,Poor
+M,19.0,GT3,T,at_home,services,mother,2.0,3.0,2.0,3.0,4.0,6,11,Fair
+M,18.0,GT3,T,at_home,at_home,mother,1.0,4.0,4.0,3.0,9.0,4,8,Fair
+M,16.0,GT3,T,services,services,mother,2.0,5.0,4.0,4.0,6.0,7,8,Fair
+?,19.0,GT3,T,at_home,other,other,2.0,4.0,4.0,5.0,,8,9,Fair
+F,16.0,GT3,A,services,at_home,mother,2.0,2.0,5.0,1.0,8.0,5,5,Fair
+F,17.0,GT3,T,other,at_home,mother,1.0,4.0,3.0,5.0,9.0,7,9,Good
+M,20.0,GT3,T,other,?,?,2.0,4.0,4.0,4.0,12.0,8,11,Good
+F,18.0,GT3,A,services,services,mother,1.0,5.0,4.0,2.0,8.0,10,11,Good
+M,18.0,GT3,T,other,other,mother,2.0,2.0,5.0,5.0,8.0,9,10,Good
+M,19.0,GT3,T,other,services,other,3.0,5.0,,2.0,8.0,10,9,Good
+M,17.0,GT3,T,health,other,mother,2.0,4.0,5.0,3.0,4.0,8,9,Good
+M,18.0,LE3,T,at_home,services,mother,1.0,4.0,3.0,3.0,0.0,9,10,Fair
+M,19.0,GT3,T,other,other,other,3.0,4.0,4.0,5.0,4.0,8,9,Good
+F,18.0,GT3,A,at_home,other,mother,2.0,4.0,3.0,5.0,2.0,6,8,Fair
+F,19.0,LE3,A,at_home,other,mother,1.0,1.0,4.0,5.0,0.0,6,8,Fair
+F,18.0,GT3,T,other,other,mother,2.0,5.0,5.0,3.0,0.0,8,6,Poor
+F,17.0,GT3,T,at_home,other,mother,2.0,4.0,4.0,5.0,0.0,10,11,Good
+F,17.0,LE3,A,other,at_home,other,2.0,4.0,2.0,3.0,5.0,8,7,Fair
+F,17.0,GT3,T,teacher,services,mother,1.0,5.0,5.0,5.0,0.0,8,8,Poor
+F,18.0,LE3,T,services,services,mother,1.0,2.0,3.0,4.0,3.0,7,6,Fair
+F,17.0,GT3,T,health,at_home,mother,1.0,3.0,2.0,5.0,0.0,8,10,Fair
+F,17.0,LE3,T,at_home,other,father,1.0,5.0,5.0,3.0,0.0,7,10,Good
+F,18.0,GT3,T,other,other,mother,3.0,3.0,4.0,5.0,3.0,7,8,Fair
+F,18.0,GT3,T,services,at_home,father,2.0,4.0,3.0,1.0,2.0,12,13,Very Good
+F,17.0,GT3,T,services,services,mother,2.0,4.0,4.0,4.0,0.0,11,12,Good
+F,18.0,LE3,A,at_home,other,mother,2.0,4.0,4.0,4.0,0.0,12,13,Very Good
+F,18.0,GT3,T,teacher,teacher,mother,2.0,4.0,3.0,1.0,0.0,18,18,Excellent
+M,18.0,LE3,T,services,other,mother,1.0,5.0,4.0,5.0,3.0,17,17,Excellent
+F,17.0,GT3,T,other,other,mother,2.0,4.0,3.0,4.0,0.0,17,18,Excellent
+F,18.0,GT3,T,at_home,other,mother,3.0,4.0,3.0,4.0,0.0,9,0,Poor
+M,18.0,LE3,T,at_home,services,mother,2.0,4.0,1.0,1.0,8.0,10,11,Good
+M,18.0,GT3,T,at_home,services,mother,3.0,2.0,5.0,1.0,5.0,12,13,Very Good
+M,17.0,GT3,T,other,services,father,3.0,4.0,2.0,4.0,4.0,12,13,Very Good
+F,18.0,GT3,T,other,other,mother,2.0,1.0,3.0,2.0,4.0,8,8,Good
+F,18.0,LE3,T,services,services,father,2.0,5.0,4.0,3.0,0.0,11,12,Good
+F,18.0,LE3,A,teacher,other,mother,1.0,5.0,,5.0,0.0,5,0,Poor
+F,18.0,GT3,T,at_home,services,mother,3.0,4.0,4.0,2.0,2.0,9,10,Good
+F,19.0,GT3,T,at_home,services,father,2.0,5.0,5.0,2.0,0.0,5,0,Poor
+F,17.0,?,T,teacher,other,father,2.0,4.0,2.0,5.0,0.0,18,18,Excellent
+F,17.0,LE3,A,services,other,mother,2.0,5.0,3.0,2.0,5.0,11,11,Good
+F,18.0,LE3,A,at_home,services,mother,1.0,5.0,2.0,3.0,,8,10,Good
+F,18.0,GT3,T,at_home,?,father,2.0,4.0,1.0,4.0,0.0,11,11,Good
+F,19.0,GT3,A,at_home,at_home,?,2.0,3.0,5.0,1.0,0.0,8,0,Poor
+F,18.0,GT3,T,services,other,mother,2.0,4.0,2.0,4.0,5.0,14,14,Very Good
+M,17.0,?,T,services,other,mother,2.0,4.0,5.0,2.0,4.0,10,11,Good
+F,18.0,GT3,T,services,services,father,1.0,5.0,3.0,5.0,0.0,10,10,Good
+F,17.0,GT3,T,teacher,services,father,2.0,4.0,,5.0,2.0,12,12,Good
+F,17.0,LE3,A,services,other,mother,2.0,1.0,2.0,5.0,0.0,15,14,Very Good
+M,18.0,LE3,T,other,services,father,2.0,3.0,3.0,3.0,2.0,14,13,Very Good
+F,18.0,LE3,T,at_home,services,father,2.0,5.0,3.0,4.0,0.0,19,17,Excellent
+F,18.0,LE3,A,at_home,other,mother,3.0,4.0,3.0,5.0,0.0,16,15,Very Good
+F,18.0,GT3,T,?,services,mother,2.0,4.0,3.0,3.0,6.0,13,12,Good
+F,17.0,LE3,T,at_home,at_home,mother,1.0,2.0,3.0,1.0,4.0,15,14,Very Good
+F,17.0,GT3,T,other,services,father,2.0,3.0,2.0,3.0,0.0,13,13,Good
+M,18.0,GT3,T,at_home,other,mother,2.0,3.0,3.0,3.0,0.0,8,10,Fair
+M,18.0,LE3,T,teacher,services,mother,2.0,,2.0,5.0,0.0,15,16,Very Good
+F,17.0,GT3,T,other,services,mother,,5.0,2.0,1.0,0.0,8,8,Fair
+F,18.0,GT3,T,at_home,?,father,2.0,5.0,2.0,4.0,0.0,10,10,Good
+F,18.0,GT3,T,other,teacher,father,3.0,3.0,2.0,5.0,0.0,7,5,Poor
+M,18.0,LE3,T,at_home,services,father,3.0,,3.0,,3.0,9,10,Good
+F,17.0,GT3,T,other,at_home,mother,1.0,3.0,4.0,3.0,8.0,10,11,Good
+F,17.0,GT3,T,other,other,mother,1.0,3.0,5.0,1.0,4.0,7,8,Fair
+F,18.0,LE3,T,other,other,mother,2.0,5.0,4.0,1.0,0.0,15,17,Excellent
+F,18.0,GT3,T,other,other,mother,4.0,4.0,3.0,4.0,4.0,10,11,Good
+F,19.0,GT3,T,at_home,other,other,2.0,4.0,3.0,3.0,4.0,7,8,Fair
+?,18.0,LE3,T,teacher,services,mother,1.0,5.0,4.0,2.0,1.0,13,14,Very Good
+F,18.0,GT3,T,other,other,mother,1.0,4.0,1.0,1.0,1.0,16,16,Very Good
+F,17.0,GT3,T,at_home,other,mother,1.0,4.0,,1.0,10.0,8,9,Fair
+M,18.0,GT3,T,teacher,teacher,father,1.0,3.0,2.0,2.0,4.0,17,18,Excellent
+M,18.0,GT3,T,other,other,mother,2.0,4.0,4.0,5.0,0.0,7,7,Poor
+M,17.0,GT3,T,other,services,father,2.0,4.0,4.0,,4.0,14,15,Very Good
+M,19.0,GT3,T,other,services,?,2.0,4.0,3.0,5.0,0.0,5,8,Poor
+M,18.0,GT3,T,other,other,father,2.0,5.0,,,0.0,7,7,Poor
+F,18.0,GT3,T,at_home,other,mother,2.0,5.0,3.0,4.0,,14,17,Very Good
+F,17.0,GT3,T,teacher,other,mother,2.0,5.0,5.0,1.0,0.0,6,9,Good
+F,18.0,GT3,T,teacher,at_home,mother,3.0,4.0,4.0,5.0,4.0,7,9,Good
+F,19.0,GT3,T,services,other,mother,1.0,5.0,4.0,5.0,4.0,10,11,Good
+F,18.0,LE3,T,teacher,services,mother,1.0,4.0,3.0,1.0,,15,15,Very Good
+F,18.0,GT3,T,?,other,mother,2.0,1.0,1.0,5.0,6.0,11,12,Fair
+M,17.0,LE3,T,services,services,mother,,2.0,4.0,2.0,6.0,10,10,Good
+M,18.0,LE3,T,?,other,mother,3.0,4.0,4.0,5.0,4.0,10,11,Good
